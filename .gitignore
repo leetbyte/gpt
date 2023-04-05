@@ -1,0 +1,5 @@
+.chroma
+.venv
+.files
+.vector-stores
+**/*.env
